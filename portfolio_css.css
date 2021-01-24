@@ -157,7 +157,7 @@ th, td {
   max-width:calc(100vw - 40px);
   box-sizing:border-box;
   font-family:'Montserrat',sans-serif;
-  position:relative;
+  position:absolute;
 }
 input{
   color:#000;
